@@ -7,14 +7,23 @@ This project is protected under the MIT license.
 This application allows users to create and manage a **Kanban board** with secure authentication. The board consists of three columns: **To Do, In Process, and Done**. Users can securely log in and interact with tickets created by other users.
 
 ## 📑 Table of Contents
-- [Installation](#installation)
+- [License](#-license)
+- [Description](#-description)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshot](#-screenshot)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Credits](#-credits)
+- [Contribute](#-contribute)
+- [Tests](#-tests)
+- [Contact](#-contact)
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
 - [Contribute](#contribute)
 - [Tests](#tests)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🛠️ Installation
@@ -29,8 +38,8 @@ npm i && npm run seed && npm run build
 ## 🚀 Usage
 
 ## 📷 Screenshot
-_![Screenshot 2025-02-01 220635](https://github.com/user-attachments/assets/b23dc351-7c77-4ec4-bd35-1a9530a7ddc9)
-._
+_![Screenshot 2025-02-01 220635](https://github.com/user-attachments/assets/354d0631-e234-43bc-8ea8-6e6c64a540c8)
+_
 This application requires authentication. Currently, users can only be added manually by modifying the `user-seeds.ts` file and running:
 
 ```sh
@@ -87,8 +96,14 @@ npm test
 ```
 
 ## 📬 Contact
-For questions or suggestions, reach out via GitHub.
+For questions or suggestions, reach out via:
+- **GitHub**:(https://github.com/JS-1701)
+- **Email**:(mailto:first.it.giveth13@gmail.com)
 
 Happy coding! 🚀
+For questions or suggestions, reach out via GitHub.
+
+
+
 
 
